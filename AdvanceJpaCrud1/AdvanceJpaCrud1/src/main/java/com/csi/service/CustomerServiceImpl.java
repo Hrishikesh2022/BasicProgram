@@ -64,7 +64,7 @@ public class CustomerServiceImpl implements CustomerService {
         return customerDaoImpl.filterData(custPrice);
     }
 
-
+/**********/
 
     @Override
     public void deleteAllData() {
